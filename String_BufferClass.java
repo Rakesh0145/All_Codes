@@ -6,5 +6,7 @@ class String_BufferClass{
 		//s.insert(0, "0");
 		s.delete(1, 4);
 		System.out.println(s);
+		System.out.println("Reverse Element " + s.length());
 	}
+	4erte2t2er
 }
